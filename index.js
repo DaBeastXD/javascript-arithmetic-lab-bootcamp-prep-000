@@ -18,3 +18,4 @@ function dec(n) {
 function multiply(a, b) {
   return a *= b
 }
+function makeInt('n', 10) 
