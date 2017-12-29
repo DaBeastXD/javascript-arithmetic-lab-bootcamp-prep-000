@@ -1,5 +1,3 @@
-var a = 5
-var b = 10
-
-var add = a += b
-return add
+function add(a, b) {
+  return a +=b
+} 
