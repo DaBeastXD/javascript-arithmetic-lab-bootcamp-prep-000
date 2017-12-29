@@ -16,6 +16,3 @@ function dec(n) {
 function makeInt(n) {
   return parseInt(n)
 }
-function subtract(a, b) {
-  return a -= b
-}
